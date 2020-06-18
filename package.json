@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "angular": "^1.6.8",
+    "angular": "^1.8.0",
     "angular-route": "^1.6.8",
     "express": "^4.13.4",
     "growl": ">=1.10.0"
