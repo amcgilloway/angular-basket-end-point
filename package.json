@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "mocha": "^3.0.2",
-    "webpack": "^2.7.0"
+    "webpack": "^5.75.0"
   },
   "bugs": {
     "url": "https://github.com/amcgilloway/angular-basket-end-point/issues"
